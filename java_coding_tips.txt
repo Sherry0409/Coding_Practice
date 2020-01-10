@@ -1,0 +1,6 @@
+- num << 1, 相当于num*2 (num向左移动1位)
+- num >> 1, 相当于num/2 (num向右移动1位)
+- help[i++]  arr[p1] < arr[p2] ? arr[p1++] : arr[p2++] 符合条件则执行冒号前面，不符合条件执行冒号后面
+- help[i++] -> help[i]; i++;
+- help[++i] -> i++; help[i];
+- Math.random() 返回带正号的double值，范围大于等于0，小于1.
